@@ -11,6 +11,3 @@ spring:
         ddl-auto: validate
   liquibase:
     enabled: true
-cache:
-  algorithm: LRU
-  size: 3
