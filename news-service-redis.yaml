@@ -1,4 +1,6 @@
 spring:
+  profiles:
+    active: custom-cache
   cache:
     type: redis
   data:
